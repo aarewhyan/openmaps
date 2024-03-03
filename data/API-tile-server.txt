@@ -1,3 +1,3 @@
-API hosted on - http://34.131.81.195:8080/
+API hosted on - https://tiles.openmaps.live/
 
 For endpoints description refer to - https://tileserver.readthedocs.io/en/latest/endpoints.html
