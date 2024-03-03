@@ -1,3 +1,7 @@
 API hosted on - https://tiles.openmaps.live/
 
 For endpoints description refer to - https://tileserver.readthedocs.io/en/latest/endpoints.html
+
+Example test - GET https://tiles.openmaps.live/styles/basic-preview/?raster#16/28.6328/77.2188
+
+
