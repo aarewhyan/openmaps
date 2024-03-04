@@ -14,7 +14,6 @@ i.help.grey.icon {
 }
 
 .fossgis-logo {
-  background-image: url('images/fossgis.png');
   height: 31px;
   width: 150px;
   background-position: center;
@@ -22,7 +21,6 @@ i.help.grey.icon {
 }
 
 .valhalla-logo {
-  background-image: url('images/valhalla.png');
   height: 100px;
   width: 100px;
   background-position: center;
